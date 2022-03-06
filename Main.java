@@ -10,6 +10,7 @@ public class Main {
 		// TODO Auto-generated method stub
 
 		BarajaEspanola b1=new BarajaEspanola();
+		
 		b1.barajar();
 		System.out.println(b1);
 
